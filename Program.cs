@@ -129,7 +129,7 @@ namespace p15_CalculandoMedias
                 Console.WriteLine("*********PARABÉNS, VC É INTELIGENTE*********");
             }
 
-            Console.Write(linha);
+            Console.WriteLine(' ');
             Console.WriteLine("Execução finalizada. Tecle ENTER para encerrar");
             Console.ReadLine();
         }
